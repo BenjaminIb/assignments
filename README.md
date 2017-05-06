@@ -8,3 +8,5 @@ This repository contains my assignments
 [assignment 3, week 5](https://github.com/BenjaminIb/assignments/blob/master/Assignment_week_5.ipynb)
 
 [assignment 4, week 6](https://github.com/BenjaminIb/assignments/blob/master/assignment4.ipynb)
+
+[assignment 5, week8](https://github.com/BenjaminIb/assignments/blob/master/assignment5.ipynb)
