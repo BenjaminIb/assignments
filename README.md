@@ -10,3 +10,7 @@ This repository contains my assignments
 [assignment 4, week 6](https://github.com/BenjaminIb/assignments/blob/master/assignment4.ipynb)
 
 [assignment 5, week8](https://github.com/BenjaminIb/assignments/blob/master/assignment5.ipynb)
+
+[final python assignment](https://github.com/BenjaminIb/assignments/blob/master/Final_Assignment_Python_1_students.ipynb)
+
+
